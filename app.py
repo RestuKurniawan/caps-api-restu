@@ -55,7 +55,7 @@ def route_static():
 	ON invoice_items.TrackId = tracks.TrackId 
 	LEFT JOIN genres as g 
 	ON tracks.GenreId = g.GenreId
-	where InvoiceDate like ('2012-%') 
+	where InvoiceDate like ('2012-%') and Genre = 'Rock'
 	group by BillingCountry
 	order by jumlah
 	desc limit 10
