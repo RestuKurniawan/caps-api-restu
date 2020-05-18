@@ -127,7 +127,7 @@ def documentation():
         <ol>
             <li>
                 <p> '/statis', method = GET </p>
-                <p> Rocket Dunia, data peminat music rock tahun 2012 </p>
+                <p> Rocket Dunia, data 10 negara peminat music rock terbesar dunia tahun 2012 </p>
             </li>
         </ol>
 
