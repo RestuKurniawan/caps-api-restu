@@ -40,7 +40,7 @@ def get_data():
 
 
 # End Point STatis 2
-# mendapatkan keseluruhan data dari database chinook untuk penyuka music Rock dunia tahun 2012
+# mendapatkan keseluruhan data dari database chinook untuk penyuka music Rock 10 terbesae di dunia tahun 2012
 @app.route('/statis', methods = ['GET'])
 def route_static():
 	conn = sqlite3.connect("data/chinook.db")
