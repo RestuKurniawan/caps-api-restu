@@ -31,37 +31,18 @@ I want get list of county
 
 **Request** :  
 
-Method = GET  
-URL =  https://algoritma-api-capstone.herokuapp.com/
+
+Method = GET 
+https://r1capstone-api-restu.herokuapp.com/docs
+
+Method = GET (Dinamis)
+https://r1capstone-api-restu.herokuapp.com/Sales_Album/USA
+
+Method = GET (Statis)  
+URL = https://r1capstone-api-restu.herokuapp.com/india
+URL = https://r1capstone-api-restu.herokuapp.com/statis
+
 
 **Response** : 
 ```json
-{
-    "0": {
-        "0": "Brazil",
-        "1": "Germany",
-        "2": "Canada",
-        "3": "Norway",
-        "4": "Czech Republic",
-        "5": "Austria",
-        "6": "Belgium",
-        "7": "Denmark",
-        "8": "USA",
-        "9": "Portugal",
-        "10": "France",
-        "11": "Finland",
-        "12": "Hungary",
-        "13": "Ireland",
-        "14": "Italy",
-        "15": "Netherlands",
-        "16": "Poland",
-        "17": "Spain",
-        "18": "Sweden",
-        "19": "United Kingdom",
-        "20": "Australia",
-        "21": "Argentina",
-        "22": "Chile",
-        "23": "India"
-    }
-}
-```
+{"Peminat":{"[2009,"India","R&B\/Soul"]":23.76,"[2009,"India","Rock"]":27.72,"[2010,"India","Jazz"]":13.86,"[2010,"India","Latin"]":69.3,"[2010,"India","Rock"]":114.84,"[2010,"India","Sci Fi & Fantasy"]":1.99,"[2011,"India","Alternative & Punk"]":40.59,"[2011,"India","Blues"]":26.73,"[2011,"India","Jazz"]":69.3,"[2011,"India","Latin"]":55.44,"[2011,"India","Metal"]":3.96,"[2011,"India","Rock"]":82.17,"[2012,"India","Alternative & Punk"]":62.37,"[2012,"India","Classical"]":3.96,"[2012,"India","Rock"]":17.82,"[2013,"India","Jazz"]":15.84,"[2013,"India","Metal"]":35.64,"[2013,"India","TV Shows"]":1.99}}
