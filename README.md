@@ -40,6 +40,7 @@ https://r1capstone-api-restu.herokuapp.com/Sales_Album/USA
 
 Method = GET (Statis)  
 URL = https://r1capstone-api-restu.herokuapp.com/india
+
 URL = https://r1capstone-api-restu.herokuapp.com/statis
 
 
