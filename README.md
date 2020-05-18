@@ -12,7 +12,7 @@ Open endpoints require no Authentication.
 
 Return list of list genre in India, year limited from 2009 - 2013
 
-**10 List Negara dengan peminat music Rock Terbesar di dunia tahun 2012 ** : 
+**10 List Negara dengan peminat music Rock Terbesar di dunia tahun 2012** : 
 
 > `GET /Statis`    
 
